@@ -1,0 +1,1 @@
+Código de proyecto de grado para maestría en Ciencia de Datos, se busca predecir de forma conformal la cantidad de material particulado 2.5 a partir de datos de mobilidad y del histoórico de material particulado en Medellín
