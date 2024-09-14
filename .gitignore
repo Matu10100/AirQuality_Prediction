@@ -1,0 +1,7 @@
+# Ignora todos los archivos de texto
+*.txt
+# Ignora todos los archivos PDF
+*.pdf
+# Ignora los docs de word
+*.docx
+#
