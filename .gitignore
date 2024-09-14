@@ -4,4 +4,5 @@
 *.pdf
 # Ignora los docs de word
 *.docx
-#
+# Ignorar los csv
+*.csv
