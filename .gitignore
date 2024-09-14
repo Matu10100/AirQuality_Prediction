@@ -2,7 +2,11 @@
 *.txt
 # Ignora todos los archivos PDF
 *.pdf
-# Ignora los docs de word
+# Ignora los docs de office
+*.pptx
 *.docx
+*.xlsx
 # Ignorar los csv
 *.csv
+# Ignorar imagenes
+*.png
