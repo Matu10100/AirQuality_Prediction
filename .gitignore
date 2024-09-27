@@ -10,3 +10,5 @@
 *.csv
 # Ignorar imagenes
 *.png
+# ignorar los archivos .h5
+*.h5
